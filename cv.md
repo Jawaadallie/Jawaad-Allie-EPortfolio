@@ -13,7 +13,7 @@ title: Curriculum Vitae
 <div class="glass-card">
   <h2>MOGAMAD JAWAAD ALLIE</h2>
   <p><strong>SOFTWARE DEVELOPER</strong></p>
-  <p>📞 0829399647 | ✉️ jawaadallie@gmail.com | 🏠 24 4th Avenue, Manenberg</p>
+  <p>📞 0829399647 | ✉️ jawaadallie@gmail.com | 🏠 Manenberg</p>
 </div>
 
 <div class="glass-card">
