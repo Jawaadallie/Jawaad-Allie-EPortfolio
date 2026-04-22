@@ -60,7 +60,7 @@ title: Curriculum Vitae
         <td>2023 - Ongoing</td>
       </tr>
       <tr>
-        <td><strong>Al Azhar Highschool</strong></td>
+        <td><strong>Al Azhar High School</strong></td>
         <td>Bachelors</td>
         <td>2020 - 2022</td>
       </tr>
